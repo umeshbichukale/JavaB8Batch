@@ -9,6 +9,8 @@ public class Test {
 
 		System.out.println("Inside main method Fourth");
 		
+		System.out.println("Inside main method Third");
+		
 	}
 
 }
