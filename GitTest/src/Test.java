@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("Inside main method");
 
 		System.out.println("Inside main method second");
+
+		System.out.println("Inside main method Fourth");
 		
 	}
 
